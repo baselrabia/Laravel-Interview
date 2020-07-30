@@ -9,7 +9,8 @@ If you have any other questions and you see it is important for preparing TO int
   1. [PHP & LARAVEL](#php--laravel)
   2. [Testing](#testing)
   
-  
+**[⬆ back to top](#table-of-contents)**
+
 ## PHP & LARAVEL 
 
  ### Which is faster echo or print and why? “Language Constructs”. 
@@ -98,6 +99,8 @@ If you have any other questions and you see it is important for preparing TO int
  contribute with your best answer and help other 
  ### How to list the recent 5 popular videos ( based on likes, views ) made 3  days ago?
  contribute with your best answer and help other 
+
+**[⬆ back to top](#table-of-contents)**
 
  ## Testing
 
